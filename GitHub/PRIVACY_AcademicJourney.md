@@ -1,7 +1,7 @@
 ## Privacy Policy for GitHub API Integration
 
 ### Data Collection and Usage
-Our application uses the GitHub API to access public repositories. We collect data such as usernames, repository names, and other publicly available information. This data is used to enhance your experience with our application and is not used for any other purpose.
+Our application uses the GitHub API to access public repositories, especially "RanArino/Course_Projects" and "RanArino/BDM500_Project". We collect data such as usernames, repository names, and other publicly available information. This data is used to enhance your experience with our application and is not used for any other purpose.
 
 ### API Key Security
 We ensure the security of our GitHub API key and the data accessed through it. Your interactions through our application are secured and encrypted.
