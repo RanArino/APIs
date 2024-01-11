@@ -27,6 +27,6 @@ By using our Service, you consent to the collection and use of information in ac
 ## 5. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-6. Contact Us
+## 6. Contact Us
 If you have any questions about this Privacy Policy, please contact us at: rarino@myseneca.ca.
 
